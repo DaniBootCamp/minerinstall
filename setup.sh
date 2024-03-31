@@ -24,4 +24,4 @@ git clone https://github.com/nimble-technology/nimble-miner-public.git
 cd nimble-miner-public
 make install
 source ./nimenv_localminers/bin/activate
-make run addr=nimble155svmwy8t8lmq9lua6p8j37z0mxgt3q3uupvt8
+make run addr=nimble16uy3artc6wusrc5r0vc84wax44ghrg0qd0sr9q
